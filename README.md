@@ -3,6 +3,9 @@ As a supervised learning algorithm, our dataset tell us how data examples are la
 
 Once we have our decision boundary, we can predict label given a new example data
 
+![logistic_regression](https://github.com/JhonSanz/logistic_regression/blob/master/logistic_regression.png?raw=true)
+
+
 # Logistic regression model
 
 ## Hypotesis hθ(X)
